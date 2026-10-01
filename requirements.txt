@@ -1,0 +1,13 @@
+# Core bioinformatics
+biopython>=1.79
+
+# Numerics and statistics
+numpy>=1.23
+scipy>=1.9
+
+# Visualisation
+matplotlib>=3.6
+
+# Optional — faster FASTA parsing if you scale up to thousands of sequences
+# (install separately; not required to run)
+# pyfaidx>=0.7
