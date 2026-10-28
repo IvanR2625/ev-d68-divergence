@@ -12,6 +12,8 @@ visible over just a few years of sampling. VP1 (Viral Protein 1) is the
 outermost capsid protein — it contacts antibodies, undergoes immune selection,
 and is the standard gene for evolutionary studies of enteroviruses.
 
+Please also refer to https://github.com/IvanR2625/ev68-vp1-explorer.
+
 **Authors:** Ivan Raizada  
 **Affiliation:** Webber Academy, Calgary, AB
 
